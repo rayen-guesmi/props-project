@@ -1,0 +1,24 @@
+.my-image {
+    display: flex; 
+     width: 150px;
+     height: 150px;
+   border-radius: 50%;
+   
+   }
+   .name{
+    color: burlywood;
+    font-size: 30px;
+    display: block;
+    width: 800px;
+   }
+   
+   
+   .profession{
+     color: turquoise;
+     font-size: 20px;
+     font-style: italic;
+     border: inset;
+     display: block;
+     width: 200px;
+   }
+  
